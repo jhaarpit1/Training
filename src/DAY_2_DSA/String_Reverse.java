@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class String_Reverse {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         String input = sc.nextLine();
         char array[] = input.toCharArray();
         String res = "";

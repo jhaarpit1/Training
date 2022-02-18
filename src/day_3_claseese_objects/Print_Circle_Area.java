@@ -1,4 +1,4 @@
-package src.day_3_classes_objects;
+package day_3_claseese_objects;
 
 import java.util.Scanner;
 
@@ -14,6 +14,10 @@ public class Print_Circle_Area {
         +" color is of area "+radius*radius*3.14);
     }
 }
+
+/**method "input_circle" is taking input and returning .
+ *
+ */
 
     class input_cirlce {
     private String name;

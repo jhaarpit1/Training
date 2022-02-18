@@ -1,4 +1,4 @@
-package day_3_claseese_objects;
+package day_3_classes_objects;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package day_3_classes_objects.payroll;
+package day_3_classes_objects.payrollupdate;
 
 public class SalariedEmp extends empDetails implements employee {
     double weekSalary = 10000;

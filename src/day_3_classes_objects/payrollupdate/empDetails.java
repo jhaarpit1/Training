@@ -1,4 +1,4 @@
-package day_3_classes_objects.payroll;
+package day_3_classes_objects.payrollupdate;
 
 public abstract class empDetails {
     String firstName;

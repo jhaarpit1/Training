@@ -1,12 +1,12 @@
-package day_3_classes_objects.payroll;
+package day_3_classes_objects.payrollupdate;
 
 public class hourlyEmp extends empDetails implements employee {
     int hours;
     int ratePerHour;
     hourlyEmp(String firstName, String lastName, String phoneno, String email, int Hours, int RateperHour){
         super(firstName,lastName,email,phoneno);
-        hours = Hours;
-        ratePerHour = RateperHour;
+        this.hours = Hours;
+        this.ratePerHour = RateperHour;
     }
 
 

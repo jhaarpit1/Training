@@ -1,12 +1,12 @@
-package day_3_classes_objects.payroll;
+package day_3_classes_objects.payrollupdate;
 
 public class commisionEmp extends empDetails implements employee {
     double sales;
     double percent;
     commisionEmp(String firstName, String lastName, String phoneno, String email, double sales, double percent){
         super(firstName,lastName,email,phoneno);
-        sales = sales;
-        percent = percent;
+        this.sales = sales;
+        this.percent = percent;
     }
     @Override
     public double getPayroll() {

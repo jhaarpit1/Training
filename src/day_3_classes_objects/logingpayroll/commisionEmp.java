@@ -1,12 +1,16 @@
-package day_3_classes_objects.payrollupdate;
+package day_3_classes_objects.logingpayroll;
+
+import org.apache.log4j.Logger;
 
 public class commisionEmp extends empDetails implements employee {
+    private static Logger logger = Logger.getLogger( commisionEmp.class);
     double sales;
     double percent;
     commisionEmp(String firstName, String lastName, String phoneno, String email, double sales, double percent){
         super(firstName,lastName,email,phoneno);
         this.sales = sales;
         this.percent = percent;
+        logger.info("In the constructor of commisionEmployee.");
     }
     @Override
     public double getPayroll() {

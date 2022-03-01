@@ -1,4 +1,4 @@
-package day_3_classes_objects.payrollupdate;
+package day_3_classes_objects.logingpayroll;
 
 import java.util.HashMap;
 import java.util.Scanner;

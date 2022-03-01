@@ -1,12 +1,16 @@
-package day_3_classes_objects.payrollupdate;
+package day_3_classes_objects.logingpayroll;
+
+import org.apache.log4j.Logger;
 
 public class hourlyEmp extends empDetails implements employee {
+    private static Logger logger = Logger.getLogger(hourlyEmp.class);
     int hours;
     int ratePerHour;
     hourlyEmp(String firstName, String lastName, String phoneno, String email, int Hours, int RateperHour){
         super(firstName,lastName,email,phoneno);
         this.hours = Hours;
         this.ratePerHour = RateperHour;
+        logger.info("In the hourlyEmployee constructor");
     }
 
 

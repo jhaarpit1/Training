@@ -1,6 +1,7 @@
-package day_3_classes_objects.payrollupdate;
+package day_3_classes_objects.logingpayroll;
 
 public abstract class empDetails {
+
     String firstName;
     String LastName;
     String email;
@@ -11,6 +12,7 @@ public abstract class empDetails {
         LastName = lastName;
         this.email = email;
         this.phoneno = phoneno;
+
     }
 
 

@@ -1,0 +1,10 @@
+
+[aa, aaa, a, b, kkk]
+
+a :Name is a b And Phone no and email is aa,1  and payroll is:10000.0
+
+aa : Name is aa bb And Phone no and email is 123,acd  and payroll is:5000.0
+aaa : Name is aaa bbb And Phone no and email is 1211,yyy  and payroll is:1440.0
+a : Name is a b And Phone no and email is aa,1  and payroll is:10000.0
+b : Name is b c And Phone no and email is dd,2  and payroll is:10000.0
+kkk : Name is kkk ggg And Phone no and email is 1122,HEH  and payroll is:12440.0

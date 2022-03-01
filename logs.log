@@ -1,0 +1,6 @@
+2022-03-01 14:01:52 INFO  SalariedEmp:12 - In the SalariedEmployee constructor
+  2022-03-01 14:01:52 INFO  SalariedEmp:12 - In the SalariedEmployee constructor
+  2022-03-01 14:01:52 INFO  hourlyEmp:13 - In the hourlyEmployee constructor
+  2022-03-01 14:01:52 INFO  commisionEmp:13 - In the constructor of commisionEmployee.
+  2022-03-01 14:01:52 INFO  baseSalariedEmp:18 - In the baseSalaried Employee constructor
+  

@@ -1,4 +1,4 @@
-package emppayjdbcversion;
+package emppayJdbcversion;
 
 public class SalariedEmp implements Employee {
     int salary=1000;

@@ -1,4 +1,4 @@
-package emppayjdbcversion;
+package emppayJdbcversion;
 
 public class EmployeeDetails {
     private String firstName;

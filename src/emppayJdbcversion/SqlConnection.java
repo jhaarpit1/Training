@@ -1,4 +1,4 @@
-package emppayjdbcversion;
+package emppayJdbcversion;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,4 +1,4 @@
-package emppayjdbcversion;
+package emppayJdbcversion;
 
 public interface Employee {
     public int getPayroll();

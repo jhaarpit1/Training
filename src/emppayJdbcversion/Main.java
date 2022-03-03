@@ -1,7 +1,4 @@
-package emppayjdbcversion;
-
-import day_3_classes_objects.logingpayroll.DBPopulate;
-import day_3_classes_objects.logingpayroll.SearchEmp;
+package emppayJdbcversion;
 
 import java.util.*;
 

@@ -1,7 +1,4 @@
-package day_3_classes_objects.logingpayroll;
-
-import emppayjdbcversion.EmployeeDetails;
-import emppayjdbcversion.SqlConnection;
+package emppayJdbcversion;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
